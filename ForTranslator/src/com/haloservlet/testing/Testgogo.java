@@ -19,6 +19,7 @@ public class Testgogo extends HttpServlet {
      */
     public Testgogo() {
         super();
+		//john add
         // TODO Auto-generated constructor stub
     }
 
